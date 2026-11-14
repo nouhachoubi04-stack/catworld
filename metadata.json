@@ -1,0 +1,6 @@
+{
+  "name": "CAT WORLD – Discover the World of Cats",
+  "description": "Explore 20+ pedigree cat breeds, visual galleries, care guides, behavior videos, and expert feline knowledge on CAT WORLD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
